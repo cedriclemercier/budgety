@@ -184,6 +184,14 @@ body {
 
 .add__btn:focus { outline: none; }
 
+
+.footer {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /***** LISTS *****/
 .container {
     width: 1000px;
